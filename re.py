@@ -3,8 +3,7 @@ import streamlit as st
 # Configuration de la page
 st.set_page_config(page_title="Suivi de Projet", layout="wide")
 
-# Titre principal
-st.title("📋 Suivi et Gestion du Projet de Réservation de Tables en Ligne")
+
 
 # Sections avec titres et contenus
 sections = [
