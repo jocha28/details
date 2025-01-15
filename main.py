@@ -62,7 +62,7 @@ st.markdown("""
         left: 0;
         width: 100%;
         background-color: #f8f9fa;
-        padding: -1px 400px;
+        padding: -1px 700px;
         display: flex;
         justify-content: space-around;
         box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.2);
