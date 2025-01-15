@@ -93,7 +93,7 @@ st.markdown("""
         left: 0;
         width: 100%;
         background-color: #f8f9fa;
-        padding: 10px 400px;
+        padding: -1px 700px;
         display: flex;
         justify-content: space-around;
         box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.2);
@@ -115,7 +115,6 @@ st.markdown("""
             
     <div class="navigation-bar">
         <a href="https://presen-5rhrkuhggbivew6z4sbfzf.streamlit.app/"><i class="fas fa-home"></i></a>
-        <a href="https://re-f2yf8jvap3cpwdh6afpvkt.streamlit.app/"><i class="fas fa-info-circle"></i></a>
     </div>
     
 """, unsafe_allow_html=True)
