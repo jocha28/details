@@ -83,7 +83,6 @@ st.markdown("""
     </style>
             
     <div class="navigation-bar">
-        <a href="https://presen-5rhrkuhggbivew6z4sbfzf.streamlit.app/"><i class="fas fa-home"></i></a>
         <a href="https://re-f2yf8jvap3cpwdh6afpvkt.streamlit.app/"><i class="fas fa-info-circle"></i></a>
     </div>
     
