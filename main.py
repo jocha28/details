@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # Titre principal de l'application
-st.title("✨ Projet : Application de Réservation de Tables en Ligne ✨")
+st.title("Projet : Application de Réservation de Tables en Ligne ")
 
 # Liste des sections avec titres et contenus
 data = [
@@ -83,12 +83,13 @@ st.markdown("""
     </style>
             
     <div class="navigation-bar">
-        <a href="https://www.example.com"><i class="fas fa-home"></i></a>
-        <a href="https://www.example.com/contraintes"><i class="fas fa-cogs"></i></a>
-        <a href="https://www.example.com/about"><i class="fas fa-info-circle"></i></a>
+        <a href="https://presen-5rhrkuhggbivew6z4sbfzf.streamlit.app/"><i class="fas fa-home"></i></a>
+        <a href="https://re-f2yf8jvap3cpwdh6afpvkt.streamlit.app/"><i class="fas fa-info-circle"></i></a>
     </div>
     
 """, unsafe_allow_html=True)
+
+st.markdown('<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">', unsafe_allow_html=True)
 
 
 
