@@ -1,9 +1,6 @@
 import streamlit as st
 
 
-# Titre principal de l'application
-st.title("Projet : Application de Réservation de Tables en Ligne ")
-
 # Liste des sections avec titres et contenus
 data = [
     {
